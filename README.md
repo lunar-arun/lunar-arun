@@ -10,7 +10,7 @@ I am passionate about data and believe in the power of artificial intelligence t
 * 🌍  I'm based in Chennai
 * ✉️  You can contact me at [arunkumaroraon2000@gmail.com](mailto:arunkumaroraon2000@gmail.com)
 * 🧠  I'm learning LLMs
-* 🤝  I'm open to collaborating on other drone projects!
+* 🤝  I'm open to collaborating on other drone projects!!
 --------------
 ![profile count](https://komarev.com/ghpvc/?username=lunar-arun&color=red)
 
