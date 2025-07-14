@@ -80,4 +80,4 @@ Feel free to reach out or follow me on these platforms:
 
 ---
 
-Thank you for visiting my profile! 🌟
+Thank you for visiting my profile! 🌟🫰
