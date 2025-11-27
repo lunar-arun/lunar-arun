@@ -61,16 +61,6 @@ I'm Arun Kumar Oraon, a passionate GenAI Engineer specializing in creating innov
 
 ---
 
-## 🚀 Projects
-
-Here are some of the projects I've worked on that showcase my skills and interests:
-
-- **Generative AI Chatbot:** Built an intelligent conversational AI using Python, FastAPI, and React for seamless interaction and deployment on AWS.
-- **Data Analytics Dashboard:** Created interactive dashboards using Plotly and Power BI to visualize big data insights from Apache Hadoop clusters.
-- **Web3 Decentralized Application:** Developed a DApp using Web3.js and Ethereum smart contracts for secure, transparent transactions.
-
----
-
 ## 📫 Connect with Me
 
 Feel free to reach out or follow me on these platforms:
