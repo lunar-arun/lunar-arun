@@ -2,7 +2,7 @@
 
 # Hi, I'm Arun Kumar Oraon
 
-### GenAI Engineer | Data Scientist | Data Analyst | Trainer
+### Data Scientist | Data Analyst | Trainer
 
 ![profile count](https://komarev.com/ghpvc/?username=lunar-arun&color=red)
 
