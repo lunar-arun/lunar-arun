@@ -10,7 +10,7 @@
 
 ## About Me
 
-I'm Arun Kumar Oraon, a passionate GenAI Engineer specializing in creating innovative AI-driven solutions. With a strong foundation in both software engineering and data science, I love to blend creativity and technology to build impactful projects that solve real-world problems. I continuously strive to learn and grow in emerging fields such as generative AI, cloud computing, and scalable web applications.
+I'm **Arun Kumar Oraon**, a passionate GenAI Engineer specializing in creating innovative AI-driven solutions. With a strong foundation in both software engineering and data science, I love to blend creativity and technology to build impactful projects that solve real-world problems. I continuously strive to learn and grow in emerging fields such as generative AI, cloud computing, and scalable web applications.
 
 ---
 
