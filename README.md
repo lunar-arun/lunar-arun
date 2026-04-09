@@ -61,6 +61,8 @@ I'm **Arun Kumar Oraon**, a passionate GenAI Engineer specializing in creating i
 
 ---
 
+![](https://github.com/lunar-arun/lunar-arun/blob/output/github-snake-dark.svg)
+
 ## 📫 Connect with Me
 
 Feel free to reach out or follow me on these platforms:
