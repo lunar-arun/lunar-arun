@@ -72,4 +72,4 @@ Feel free to reach out or follow me on these platforms:
 
 ---
 
-Thank you for visiting my profile! Enjoy :)
+Thank you for visiting my profile! Enjoy :) | (:
